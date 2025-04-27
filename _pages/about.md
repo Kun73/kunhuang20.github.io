@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in
+Welcome! I obtained my PhD in
 [School of Data Science](https://sds.cuhk.edu.cn), 
 [the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en). 
 
@@ -21,6 +21,8 @@ Research Interest
 
 Recent News
 ===
++ Mar. 2025: Our paper, [Distributed Random Reshuffling Methods with Improved Convergence](https://ieeexplore.ieee.org/abstract/document/10933513) (with Shi Pu and Linli Zhou), has been accepted for publication in IEEE Transactions on Automatic Control!
++ Feb. 2025: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://link.springer.com/article/10.1007/s10107-025-02217-0) (with Shi Pu and Angelia Nedić), has been accepted for publication in Mathematical Programming! 
 + Dec. 2024: I passed the PhD defense.
 + Dec. 2024: Our paper, [Distributed Normal Map-based Stochastic Proximal Gradient Methods over Networks](https://arxiv.org/abs/2412.13054) (with Shi Pu and Angelia Nedić), is online. This work applies the normal map update to distributed setting to achieve the linear speedup for distributed stochastic proximal gradient methods.
 + Sep. 2024: Our paper, [CEDAS: A Compressed Decentralized Stochastic Gradient Method with Improved Convergence](https://arxiv.org/abs/2301.05872) (with Shi Pu) has been accepted by IEEE Transactions on Automatic Control.
