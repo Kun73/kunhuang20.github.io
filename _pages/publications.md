@@ -20,7 +20,7 @@ $*$ indicates equal contributions
 Journal Papers
 ----
 
-+ **Kun Huang<sup>*</sup>**, Linli Zhou<sup>*</sup> and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence] (https://ieeexplore.ieee.org/abstract/document/10933513), IEEE Transactions on Automatic Control. The full version can be found [here](https://arxiv.org/abs/2306.12037).
++ **Kun Huang<sup>*</sup>**, Linli Zhou<sup>*</sup> and Shi Pu, [Distributed Random Reshuffling Methods with Improved Convergence](https://ieeexplore.ieee.org/abstract/document/10933513), IEEE Transactions on Automatic Control. The full version can be found [here](https://arxiv.org/abs/2306.12037).
   + *In this work, we design two novel decentralized random reshuffling methods, GT-RR and ED-RR. For minimizing smooth objective functions, they not only achieve similar convergence results compared to centralized RR methods but also improve the dependency regarding the network topology compared to the previous works.*
 
 + **Kun Huang**, Shi Pu and Angelia Nedić, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://link.springer.com/article/10.1007/s10107-025-02217-0), Mathematical Programming .
