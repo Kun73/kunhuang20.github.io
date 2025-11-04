@@ -21,7 +21,7 @@ Research Interest
 
 Recent News
 ===
-+ Oct. 2025: Our paper, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/abs/2510.24155) (with Shi Pu), is online. In this paper, we propose a decentralized method with local update $Q$, termed LMT. LMT achieves the optimal communication complexity for $Q\geq Q^*$, and the optimal iteration complexity for $Q\in[1, Q^*]$.
++ Oct. 2025: Our paper, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/abs/2510.24155) (with Shi Pu), is online. In this paper, we propose a decentralized method with local update $Q$, termed LMT. LMT achieves the optimal communication complexity for $Q\geq \hat{Q}$, and the optimal iteration complexity for $Q\in[1, \hat{Q}]$.
 + May 2025: Our paper, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/abs/2505.10631) (with Runze You and Shi Pu), is online.
 + Mar. 2025: Our paper, [Distributed Random Reshuffling Methods with Improved Convergence](https://ieeexplore.ieee.org/abstract/document/10933513) (with Shi Pu and Linli Zhou), has been accepted for publication in IEEE Transactions on Automatic Control!
 + Feb. 2025: Our paper, [An Accelerated Distributed Stochastic Gradient Method with Momentum](https://link.springer.com/article/10.1007/s10107-025-02217-0) (with Shi Pu and Angelia Nedić), has been accepted for publication in Mathematical Programming! 
