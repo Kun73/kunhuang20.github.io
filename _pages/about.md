@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Fellow in the Department of Decision and Control Systems at KTH Royal Institute of Technology, working with [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). Previously, I obtained my PhD in
+Welcome! I am a Postdoctoral Fellow in Department of Decision and Control Systems at KTH Royal Institute of Technology, working with [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). Previously, I obtained my PhD in
 [School of Data Science](https://sds.cuhk.edu.cn), 
-[the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), advised by [Prof. Shi Pu](https://pu-shi.github.io/). 
+[The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), advised by [Prof. Shi Pu](https://pu-shi.github.io/). 
 
 
 
