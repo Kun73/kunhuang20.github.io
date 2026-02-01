@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I obtained my PhD in
+Welcome! I am a Postdoctoral Fellow in the Department of Decision and Control Systems at KTH Royal Institute of Technology, working with [Prof. Karl Henrik Johansson](https://people.kth.se/~kallej/index.html). Previously, I obtained my PhD in
 [School of Data Science](https://sds.cuhk.edu.cn), 
-[the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en). 
+[the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), advised by [Prof. Shi Pu](https://pu-shi.github.io/). 
 
 
 
@@ -21,6 +21,7 @@ Research Interest
 
 Recent News
 ===
++ Jan. 2026: I start my new journey as a Postdoctoral Fellow at KTH Royal Institute of Technology.
 + Oct. 2025: Our paper, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/abs/2510.24155) (with Shi Pu), is online. In this paper, we propose a decentralized method with local update $Q$, termed LMT. LMT achieves the optimal communication complexity for $Q\geq \hat{Q}$, and the optimal iteration complexity for $Q\in[1, \hat{Q}]$.
 + May 2025: Our paper, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/abs/2505.10631) (with Runze You and Shi Pu), is online.
 + Mar. 2025: Our paper, [Distributed Random Reshuffling Methods with Improved Convergence](https://ieeexplore.ieee.org/abstract/document/10933513) (with Shi Pu and Linli Zhou), has been accepted for publication in IEEE Transactions on Automatic Control!
