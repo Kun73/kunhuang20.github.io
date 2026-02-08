@@ -21,6 +21,7 @@ Research Interest
 
 Recent News
 ===
++ Fed. 2026: Our paper, [Achieving Linear Speedup for Composite Federated Learning](https://arxiv.org/abs/2602.03357) (With Shi Pu), is online. This paper is the first result establishing linear speedup for nonconvex composite federated learning.
 + Jan. 2026: I start my new journey as a Postdoctoral Fellow at KTH Royal Institute of Technology.
 + Oct. 2025: Our paper, [Distributed Stochastic Momentum Tracking with Local Updates: Achieving Optimal Communication and Iteration Complexities](https://arxiv.org/abs/2510.24155) (with Shi Pu), is online. In this paper, we propose a decentralized method with local update $Q$, termed LMT. LMT achieves the optimal communication complexity for $Q\geq \hat{Q}$, and the optimal iteration complexity for $Q\in[1, \hat{Q}]$.
 + May 2025: Our paper, [Decentralized Min-Max Optimization with Gradient Tracking](https://arxiv.org/abs/2505.10631) (with Runze You and Shi Pu), is online.
